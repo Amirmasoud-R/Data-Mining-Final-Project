@@ -1,1 +1,1 @@
-My Data Mining Final Project that includes the data set, sorted data set and the results.
+My Data Mining Final Project that includes the dataset, sorted dataset and the results.
